@@ -1,5 +1,5 @@
 # dilemma
-In progress project to answer your Whya Hows and Whats.
+Naive project to answer your Whys Hows and Whats.
 
 # Interactive Dilemma Analyzer with AI
 
