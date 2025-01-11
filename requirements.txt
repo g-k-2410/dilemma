@@ -5,3 +5,4 @@ torch==2.0.1
 transformers==4.32.0
 cvxpy==1.2.0
 matplotlib==3.8.0
+accelerate==0.18.0  # or the appropriate version compatible with your setup
